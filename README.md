@@ -1,3 +1,3 @@
 Monty collaboration project 	
 
-developed by Akajameh Brown Imani & 
+developed by Akajameh Brown Imani & Nwaneri Georginia
